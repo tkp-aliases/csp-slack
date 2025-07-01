@@ -4,7 +4,7 @@ build-backend="hatchling.build"
 
 [project]
 name = "csp-slack"
-authors = [{name = "the csp-slack authors", email = "t.paine154@gmail.com"}]
+authors = [{name = "the csp-slack authors", email = "dev@1kbgz.com"}]
 description = "Alias for csp-adapter-slack"
 readme = "README.md"
 license = { text = "Apache-2.0" }
@@ -46,8 +46,8 @@ develop = [
 [project.scripts]
 
 [project.urls]
-Repository = "https://github.com/timkpaine/csp-slack"
-Homepage = "https://github.com/timkpaine/csp-slack"
+Repository = "https://github.com/1kbgz/csp-slack"
+Homepage = "https://github.com/1kbgz/csp-slack"
 
 [tool.bumpversion]
 current_version = "0.1.0"
