@@ -139,10 +139,13 @@ js/dist
 js/lib
 js/node_modules
 js/*.tgz
+csp_slack/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+!csp_slack/extension/csp_slack.json
+!csp_slack/extension/install.json
 csp_slack/nbextension
 csp_slack/labextension
 
