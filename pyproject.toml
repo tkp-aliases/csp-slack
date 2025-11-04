@@ -50,8 +50,8 @@ develop = [
 [project.scripts]
 
 [project.urls]
-Repository = "https://github.com/1kbgz/csp-slack"
-Homepage = "https://github.com/1kbgz/csp-slack"
+Repository = "https://github.com/tkp-aliases/csp-slack"
+Homepage = "https://github.com/tkp-aliases/csp-slack"
 
 [tool.bumpversion]
 current_version = "0.1.0"

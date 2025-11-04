@@ -5,7 +5,7 @@ add_docs: false
 add_extension: python
 add_wiki: false
 email: dev@1kbgz.com
-github: 1kbgz
+github: tkp-aliases
 project_description: Alias for csp-adapter-slack
 project_name: csp-slack
 python_version_primary: '3.11'

@@ -2,9 +2,9 @@
 
 Alias for csp-adapter-slack
 
-[![Build Status](https://github.com/1kbgz/csp-slack/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/1kbgz/csp-slack/actions/workflows/build.yaml)
-[![codecov](https://codecov.io/gh/1kbgz/csp-slack/branch/main/graph/badge.svg)](https://codecov.io/gh/1kbgz/csp-slack)
-[![License](https://img.shields.io/github/license/1kbgz/csp-slack)](https://github.com/1kbgz/csp-slack)
+[![Build Status](https://github.com/tkp-aliases/csp-slack/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/tkp-aliases/csp-slack/actions/workflows/build.yaml)
+[![codecov](https://codecov.io/gh/tkp-aliases/csp-slack/branch/main/graph/badge.svg)](https://codecov.io/gh/tkp-aliases/csp-slack)
+[![License](https://img.shields.io/github/license/tkp-aliases/csp-slack)](https://github.com/tkp-aliases/csp-slack)
 [![PyPI](https://img.shields.io/pypi/v/csp-slack.svg)](https://pypi.python.org/pypi/csp-slack)
 
 ## Overview
