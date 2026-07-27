@@ -1,4 +1,4 @@
-from csp_slack import *  # noqa
+from csp_slack import *
 
 
 def test_all():
